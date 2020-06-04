@@ -1,0 +1,10 @@
+//NOTE TIL MIG SELV:
+
+Rest API
+php sider til session
+php sider til at holde styr på hvilken sider vi må tilgå
+
+
+På redirects >
+If statemente til at vælge hvilken side man skal redirect til
+Hvis man ikke har adgang til en side man tilgår (tjek session), bliver man redirected til index
